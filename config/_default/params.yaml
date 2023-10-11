@@ -34,7 +34,7 @@ logo: "images/OpenInfra-UserGroup-White.png"
 #  - teal
 #  - yellow
 #color: "dark" # light, dark or auto. Default to auto.
-color: "dark"
+color: "light"
 palettes: []
 palette: "green"
 
