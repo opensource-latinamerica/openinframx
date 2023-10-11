@@ -1,0 +1,10 @@
+en:
+  languageName: English
+  weight: 1
+
+es-MX:
+  languageName: Español
+  weight: 4
+  params:
+    archive:
+      dateFormat: 01-02
