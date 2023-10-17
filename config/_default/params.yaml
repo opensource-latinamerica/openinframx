@@ -5,35 +5,12 @@ mainSections:
 
 # titleSeparator: '|' # Title separator. Default to -.
 
-description: An extreme fast, responsive and feature-rich blog theme for Hugo
-keywords: Hugo, Bootstrap, Blog Theme
-# images:
-#   - site-feature-image.jpg
-
+description: "Open Infrastructure CDMX User Group focused on community development across Mexico."
+keywords: "OpenInfra, opensource, Mexico, community, comunidad, openstack"
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
 
-# logo: images/logo.png # Logo image. Default to images/logo.webp.
-# logo: false # Disable Logo
 logo: "images/OpenInfra-UserGroup-White.png"
-# brand: ""
-
-#palette: purple # Default palette. Optional. You'll need to clear the browser cache after modifying this.
-# Available palettes. Default to ALL. Empty array means disable.
-# palettes:
-#  - blue
-#  - blue-gray
-#  - brown
-#  - cyan
-#  - green
-#  - indigo
-#  - orange
-#  - pink
-#  - purple
-#  - red
-#  - teal
-#  - yellow
-#color: "dark" # light, dark or auto. Default to auto.
 color: "light"
 palettes: []
 palette: "green"
@@ -142,10 +119,7 @@ siteVerification:
   #shenma: 
 
 creativeCommons:
-  # by: true # Credit must be given to you, the creator.
-  # nc: true # Only noncommercial use of your work is permitted.
   nd: true # No derivatives or adaptations of your work are permitted.
-  # sa: true # Adaptations must be shared under the same terms.
 
 # utterances:
   # repo: razonyang/hugo-theme-bootstrap-skeleton # Replace with your repository.
@@ -171,20 +145,6 @@ creativeCommons:
   #  - url
   #paginate: 5 # Default to 10.
   #moderation: false # Same as Staticman's moderation.
-
-# See https://giscus.app
-#giscus:
-  #repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
-  #repoId: "R_kgDOHJi95g" # required.
-  #category: "General" # required.
-  #categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
-  # theme: "dark" # Default to auto.
-  # mapping: "title" # Default to pathname.
-  # inputPosition: "bottom" # Default to top.
-  # reactions: false # Disable reactions.
-  # metadata: true # Emit discussion metadata.
-  # lang: "en" # Specify language, default to site language.
-  # lazyLoading: false # Default to true.
 
 search:
   paginate: 5 # Pagination. Default to 10.
@@ -257,15 +217,10 @@ contact:
 repo:
   url: https://github.com/opensource-latinamerica/openinframx
   branch: main
-  # dateFormat: 02/01/2006, 15:04:05 PM
 
 topAppBar:
   social:
-    github: opensource-latam
     email: hello@openinfra.mx
-    twitter: OpenInfraCDMX
-    youtube: UCpB__-WAEyHdvKAK0Y15akQ
-    rss: ""
 
 #docs:
   # nav:
