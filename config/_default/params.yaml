@@ -221,6 +221,7 @@ repo:
 topAppBar:
   social:
     email: hello@openinfra.mx
+    rss: ""
 
 #docs:
   # nav:
