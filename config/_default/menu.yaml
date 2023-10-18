@@ -1,15 +1,27 @@
 ---
 main: 
-  - name: Contact
-    identifier: contact
-    weight: 100
-    url: contact
+  - name: News
+    identifier: news
+    weight: 2
+    url: news
     params:
-      icon: '<i class="fas fa-fw fa-info-circle"></i>'
+      icon: '<i class="fas fa-fw fa-newspaper"></i>'
   - name: Authors
     identifier: authors
     weight: 3
     url: authors
     params:
       icon: '<i class="fas fa-fw fa-heart"></i>'
+  - name: Code of Conduct
+    identifier: coc
+    weight: 99
+    url: https://openinfra.dev/legal/code-of-conduct
+    params:
+      icon: '<i class="fas fa-fw fa-handshake"></i>'
+  - name: Contact
+    identifier: contact
+    weight: 100
+    url: contact
+    params: 
+      icon: '<i class="fas fa-fw fa-bug"></i>'
 ---
