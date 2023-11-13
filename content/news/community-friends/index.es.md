@@ -1,5 +1,5 @@
 ---
-title: Community Friends
+title: Amigos de la comunidad
 date: 2023-09-10T11:34:47+08:00
 featured: true
 draft: false
@@ -32,8 +32,8 @@ Algunos ejemplos de ayuda son:
 
 - Hosting en la nube para apps y herramientas de la comunidad.
 - lugares para encuentros, cervezas, pizza, etc.
-- stickers, t-shirts, pins, etc.
-- Exponentes remotos o para eventos basados en Mexico.
+- calcamonias, camisetas, pins, etc.
+- Ponentes remotos o para eventos basados en Mexico.
 - Acceso a conferencias que podamos ofrecer a la comunidad.
 - Cualquier otra cosa que se te ocurra, no nos referimos a dinero.
 

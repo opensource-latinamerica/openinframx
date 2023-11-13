@@ -1,5 +1,5 @@
 ---
-title: Friends
+title: Amigos
 date: 2023-09-20T11:34:47+08:00
 featured: true
 draft: false
@@ -19,7 +19,7 @@ authors:
 images: ["news/2023/09/friends/Love_you.jpg"]
 ---
 
-Nuestra lista de amigos actual<br>
+Nuestra lista de amigos actual
 
 <!--more-->
 
