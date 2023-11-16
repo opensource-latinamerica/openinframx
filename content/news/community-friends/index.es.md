@@ -15,8 +15,8 @@ categories:
 tags:
   - Advertising
 authors:
-  - oim
-images: ["news/2023/09/community-friends/Friends_.jpg"]
+  - openinfra.mexico
+images: ["/images/news/Friends_.jpg"]
 ---
 
 Nuestra manera de decir gracias a todos los que contribuyen a la comunidad LATAM.
@@ -37,4 +37,4 @@ Algunos ejemplos de ayuda son:
 - Acceso a conferencias que podamos ofrecer a la comunidad.
 - Cualquier otra cosa que se te ocurra, no nos referimos a dinero.
 
-Como persona que de una platica o ayude a nuestra comunidad, tu nombre sera añadido y no sera borrado.
+Como persona que de una platica o ayude a nuestra comunidad, tu nombre sera añadido y no sera borrado nunca.

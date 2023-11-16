@@ -4,17 +4,20 @@ title: How to Set Your Development Enviroment
 date: 2023-11-06T17:38:08-06:00
 featured: false
 draft: false
-comment: true
+comment: false
 toc: true
-reward: true
+reward: false
 pinned: false
 carousel: false
-series:
-categories: []
-tags: []
+categories:
+  - blog
+tags:
+  - development
+authors: 
+  - alejandro.delafuente
 images:
   [
-    "news/2023/11/how-to-set-your-development-enviroment/Open_Source_Software.jpg",
+    "/images/blog/Open_Source_Software.jpg"
   ]
 ---
 
@@ -39,26 +42,19 @@ This guide will help you to set your development enviroment, follow this guide i
 
 ### Installation
 
-1. clone the OpenInfraMX's [repository](https://github.com/opensource-latinamerica/openinframx)
+1. Clone the OpenInfraMX's [repository](https://github.com/opensource-latinamerica/openinframx) and its submodules
 
 ```bash
-git clone https://github.com/opensource-latinamerica/openinframx
+git clone --recurse-submodules --depth 1 https://github.com/opensource-latinamerica/openinframx
 ```
 
-2. Add the necessary submodules to your
-
-```bash
-git submodule init
-git submodule update
-```
-
-3. Install npm dependencies
+2. Install npm dependencies
 
 ```bash
 npm install
 ```
 
-4. Start the server
+3. Start the server
 
 ```bash
 hugo server
@@ -66,4 +62,4 @@ hugo server
 
 # Final Words
 
-If you followed the steps feel free to reach us at our [github](https://github.com/opensource-latinamerica/openinframx) and help in any way you want. It can be a fun ride
+If you followed the steps feel free to reach us at our [github](https://github.com/opensource-latinamerica/openinframx) and help in any way you want. It can be a fun ride.

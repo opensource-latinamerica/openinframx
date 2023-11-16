@@ -16,10 +16,10 @@ categories:
 tags:
   - Advertising
 authors:
-  - oim
+  - openinfra.mexico
 images:
   [
-    "news/2023/09/openinfra-mexico-new-site/4533_thumb_41d54c70-a52f-4ebf-a0ad-fec3e31173f7.jpg",
+    "/images/news/4533_thumb_41d54c70-a52f-4ebf-a0ad-fec3e31173f7.jpg"
   ]
 ---
 

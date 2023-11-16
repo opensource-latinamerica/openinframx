@@ -1,22 +1,16 @@
 baseURL: /
 theme: hugo-theme-bootstrap
-defaultContentLanguage: en
-# hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
-# defaultContentLanguageInSubdir: true
-# disableLanguages:
-#  - fr
-#  - zh-cn
-#  - zh-tw
 paginate: 10
-# paginatePath: page
+paginatePath: page
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
 # googleAnalytics: UA-123-45
 # disqusShortname: yourdiscussshortname
 
-#blackfriday:
-#  hrefTargetBlank: true
+IsMultiLingual: true
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
 
 taxonomies:
   category: categories
