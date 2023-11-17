@@ -7,7 +7,7 @@ readingTime = false
 +++
 
 Open Infrastructure CDMX User Group focused on community development across Mexico and LATAM.
-Grupo de Open Infrastructure en la CDMX enfocado en desarrollar la comunidad en Mexico y LATAM.
+El grupo de Open Infrastructure en la CDMX esta enfocado en desarrollar la comunidad en México y Latino America.
 
 Unete a la comunidad aqui.
 
