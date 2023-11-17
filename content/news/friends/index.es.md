@@ -34,4 +34,4 @@ Nuestra lista de amigos actual
 
 ---
 
-Francisco Araya, Guillermo Alvarado, Gloria Palma, Alvaro Soto, Lenin Alevski, Mingjun Shan, Sofia Enriquez, Sergio Mendez, Victor Morales, Georg Link, Treva Williams, Karen Mena, Carlos Ortega, Victori Martinez, Alejandro Rivera, Maximiliano Lara, Sergio Tarazona, Ildiko Vancsa, Mauricio Rojas, Soumaya MSALLEM, Omar Valencia, Los Kimeros, Oliver Astrologo, Santos De La Fuente
+Francisco Araya, Guillermo Alvarado, Gloria Palma, Alvaro Soto, Lenin Alevski, Mingjun Shan, Sofia Enriquez, Sergio Mendez, Victor Morales, Georg Link, Treva Williams, Karen Mena, Carlos Ortega, Victoria Martinez, Alejandro Rivera, Maximiliano Lara, Sergio Tarazona, Ildiko Vancsa, Mauricio Rojas, Soumaya MSALLEM, Omar Valencia, Los Kimeros, Oliver Astrologo, Santos De La Fuente
