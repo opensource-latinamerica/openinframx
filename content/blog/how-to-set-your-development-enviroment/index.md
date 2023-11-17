@@ -62,4 +62,4 @@ hugo server
 
 # Final Words
 
-If you followed the steps feel free to reach us at our [github](https://github.com/opensource-latinamerica/openinframx) and help in any way you want. It can be a fun ride.
+Any contribution is welcome, feel free to reach us through our [GitHub repository](https://github.com/opensource-latinamerica/openinframx). This could be an amazing journey.
