@@ -15,8 +15,8 @@ categories:
 tags: 
   - Advertising
 authors:
-  - oim
-images: ["news/2023/09/community-friends/Friends_.jpg"]
+  - openinfra.mexico
+images: ["/images/news/Friends_.jpg"]
 ---
 
 Our way of saying thank you to everyone who contributes to LATAM community,

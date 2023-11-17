@@ -4,21 +4,24 @@ title: Como configurar tu entorno de desarrollo
 date: 2023-11-06T17:38:08-06:00
 featured: false
 draft: false
-comment: true
+comment: false
 toc: true
-reward: true
+reward: false
 pinned: false
 carousel: false
-series:
-categories: []
-tags: []
+categories:
+  - blog
+tags:
+  - development
+authors:
+  - alejandro.delafuente
 images:
   [
-    "news/2023/11/how-to-set-your-development-enviroment/Open_Source_Software.jpg",
+    "/images/blog/Open_Source_Software.jpg"
   ]
 ---
 
-Ambiente de desarrollo OpenInfraMx.
+Ambiente de desarrollo OpenInfraMX.
 
 <!--more-->
 
@@ -37,28 +40,21 @@ Esta guía te va a ayudar a configurar tu entorno de desarrollo; sigue esta guí
 | [Node.js](https://nodejs.org/en/download/) and [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) | NODEJS `16` or above                    | usado para instalar CSS y dependencias de JS, y para construir los assets. |
 | [GO](https://go.dev/doc/install)                                                                                        | `1.12` or above                         | se recomienda tenerlo al usar Hugo                                         |
 
-### Instalacion
+### Instalación
 
-1. clona el [repositorio](https://github.com/opensource-latinamerica/openinframx) de OpenInfraMX
-
-```bash
-git clone https://github.com/opensource-latinamerica/openinframx
-```
-
-2. Añade los submodulos necesarios
+1. Clona el [repositorio](https://github.com/opensource-latinamerica/openinframx) de OpenInfraMX y los submodulos necesarios
 
 ```bash
-git submodule init
-git submodule update
+git clone --recurse-submodules --depth 1 https://github.com/opensource-latinamerica/openinframx
 ```
 
-3. Instala dependencias de npm
+2. Instala dependencias de npm
 
 ```bash
 npm install
 ```
 
-4. Inicia el servidor
+3. Inicia el servidor
 
 ```bash
 hugo server

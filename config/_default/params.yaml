@@ -1,7 +1,7 @@
 mainSections:
   - news
   - posts
-#  - blog
+  - blog
 
 # titleSeparator: '|' # Title separator. Default to -.
 
