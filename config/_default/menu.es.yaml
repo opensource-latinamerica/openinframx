@@ -3,31 +3,31 @@ main:
   - name: Blog
     identifier: blog
     weight: 1
-    url: "https://openinfra.mx/es/blog/"
+    url: "es/blog"
     params:
       icon: '<i class="fas fa-fw fa-terminal"></i>'
   - name: Noticias
     identifier: Noticias
     weight: 2
-    url: "https://openinfra.mx/es/news/"
+    url: "es/news"
     params:
       icon: '<i class="fas fa-fw fa-newspaper"></i>'
   - name: Autores
     identifier: autores
     weight: 3
-    url: "https://openinfra.mx/es/authors/"
+    url: "es/authors"
     params:
       icon: '<i class="fas fa-fw fa-heart"></i>'
   - name: Codigo de conducta
     identifier: cdc
     weight: 99
-    url: https://openinfra.dev/legal/code-of-conduct
+    url: "https://openinfra.dev/legal/code-of-conduct"
     params:
       icon: '<i class="fas fa-fw fa-handshake"></i>'
   - name: Contacto
     identifier: contacto
     weight: 100
-    url: "https://openinfra.mx/es/contact/"
+    url: "es/contact"
     params:
       icon: '<i class="fas fa-fw fa-bug"></i>'
 ---
