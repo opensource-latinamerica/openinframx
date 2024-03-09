@@ -134,3 +134,10 @@ El personal de la Fundación ("Staff") encargado de estos asuntos tiene la sigui
 - El personal luego informará al denunciante (y a otras personas involucradas, en la medida apropiada) sobre la resolución y registrará el resultado.
 
 *Porciones del Código de Conducta de la Fundación OpenInfra se derivan del Código de Conducta de la Conferencia PyCon, con licencia Creative Commons Attribution 3.0 Unported License, y del Código de Conducta del Proyecto Django.*
+
+---
+
+Traducido por:
+- Alvaro Soto - @khyron
+
+Revisado por:
