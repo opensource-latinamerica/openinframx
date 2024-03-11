@@ -139,5 +139,6 @@ El personal de la Fundación ("Staff") encargado de estos asuntos tiene la sigui
 
 Traducido por:
 - Alvaro Soto - @khyr0n
+- Luis Felipe Ariza Vesga - @lfarizav
 
 Revisado por:
