@@ -142,3 +142,4 @@ Traducido por:
 - Luis Felipe Ariza Vesga - @lfarizav
 
 Revisado por:
+- Victor Morales - @electrocucaracha
