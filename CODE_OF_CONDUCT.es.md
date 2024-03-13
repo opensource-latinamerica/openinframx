@@ -29,7 +29,7 @@ No toleramos la intimidación o el acoso de ninguna forma. Si cree que alguien e
 
 - **Colabora abiertamente**. La colaboración es fundamental para los proyectos gestionados por la Fundación OpenInfra y para la comunidad más amplia de software libre. Esta colaboración implica que individuos trabajen en equipos, colaboración entre proyectos dentro de la Fundación OpenInfra y trabajar con otros proyectos fuera de la comunidad de la Fundación OpenInfra. Esta colaboración reduce la redundancia y mejora la calidad de nuestro trabajo. Internamente y externamente, siempre debemos estar abiertos a la colaboración. Siempre que sea posible, debemos trabajar estrechamente con proyectos "upstream" y "downtream", y con otros en la comunidad de software libre para coordinar nuestro trabajo técnico, de defensa, documentación y otros. Nuestro trabajo debe realizarse de manera transparente e involucrar a tantas partes interesadas como sea posible desde el principio. Si decidimos tomar un enfoque diferente a los demás, les informaremos temprano, documentaremos nuestro trabajo e informaremos regularmente sobre nuestro progreso. No creamos formas privadas de comunicación que eliminen la transparencia o excluyan a otros colaboradores y colaboradoras.
 
-- **Cuando no estemos de acuerdo, trata de entender el por qué**. Las desavenencias, tanto sociales como técnicas, ocurren todo el tiempo y la comunidad de la Fundación OpenInfra no es una excepción. Es importante que resolvamos desacuerdos y opiniones diferentes de manera constructiva. Recuerda que somos diferentes. La fuerza de la comunidad de la Fundación OpenInfra proviene de sus miembros variados, personas de una amplia gama de conocimientos. Diferentes personas tienen diferentes perspectivas sobre los problemas. No poder entender por qué alguien tiene un punto de vista no significa que estén equivocados. Enfócate en ayudar a resolver problemas y aprender de los errores. Es importante que resolvamos desacuerdos y opiniones diferentes de manera constructiva y con la ayuda de la comunidad y los sus procesos establecidos. Tenemos una serie de órganos de gobierno que ayudan a guiar el correcto curso para los proyectos gestionados por la Fundación OpenInfra. Cuando nuestras metas difieren drásticamente, fomentamos la creación de implementaciones alternativas para que la comunidad pueda probar nuevas ideas y contribuir a la discusión.
+- **Cuando no estemos de acuerdo, trata de entender el por qué**. Los desacuerdos, tanto sociales como técnicos, ocurren todo el tiempo y la comunidad de la Fundación OpenInfra no es una excepción. Es importante que resolvamos desacuerdos y opiniones diferentes de manera constructiva. Recuerda que somos diferentes. La fuerza de la comunidad de la Fundación OpenInfra proviene de sus miembros variados, personas de una amplia gama de conocimientos. Diferentes personas tienen diferentes perspectivas sobre los problemas. No poder entender por qué alguien tiene un punto de vista no significa que estén equivocados. Enfócate en ayudar a resolver problemas y aprender de los errores. Es importante que resolvamos desacuerdos y opiniones diferentes de manera constructiva y con la ayuda de la comunidad y los sus procesos establecidos. Tenemos una serie de órganos de gobierno que ayudan a guiar el correcto curso para los proyectos gestionados por la Fundación OpenInfra. Cuando nuestras metas difieren drásticamente, fomentamos la creación de implementaciones alternativas para que la comunidad pueda probar nuevas ideas y contribuir a la discusión.
 
 - **Cuando tengamos dudas, pedimos ayuda**. Nadie lo sabe todo, y no se espera que nadie sea perfecto en la comunidad de la Fundación OpenInfra. Hacer preguntas evita muchos problemas en el futuro, por lo que se fomentan las preguntas. Aquellos a quienes se les hacen preguntas deben ser receptivos y serviciales. Sin embargo, al hacer una pregunta, se debe tener cuidado de hacerlo en un foro apropiado.
 
@@ -101,8 +101,7 @@ El personal de la Fundación ("Staff") encargado de estos asuntos tiene la sigui
 
 - El personal informará al denunciante sobre el procedimiento de respuesta y los siguientes pasos para que sientan confianza en que se está tomando acción, pero evitará lo siguiente:
 
-  - No invitar explícitamente a retirar la queja o mencionar que retirarla está bien.
-  - Esto sugiere que deseas que lo hagan y, por lo tanto, es coercitivo. "Si estás de acuerdo [en seguir con la queja]" sugiere que estás siguiéndola por defecto y no es coercitivo.
+  - No invitar explícitamente a retirar la queja o mencionar que retirarla está bien. Esto sugiere que deseas que lo hagan y, por lo tanto, es coercitivo. "Si estás de acuerdo [en seguir con la queja]" sugiere que estás siguiéndola por defecto y no es coercitivo.
   - No solicitar su consejo sobre cómo manejar la queja. Esto es responsabilidad del personal.
   - No ofrecerles participación en las sanciones. En ciertos casos, puede ser apropiado preguntar al denunciante qué sería necesario para que el presunto infractor "lo haga bien", como una disculpa. Sin embargo, la determinación de cualquier sanción, incluidas restricciones para futuras participaciones en los Lugares de OpenInfra, está a discreción exclusiva del personal.
 
@@ -122,7 +121,7 @@ El personal de la Fundación ("Staff") encargado de estos asuntos tiene la sigui
 - Cuando se encuentra una violación del Código de Conducta de OpenInfra, el personal puede tomar una o más de las siguientes medidas:
 
   - Ordenar al infractor que cese el comportamiento y advertir que cualquier violación adicional resultará en sanciones.
-  - Requerir que el infractor evite cualquier interacción y proximidad física con el denunciante en cualquier lugar de los Lugares de OpenInfra.
+  - Requerir que el infractor evite cualquier interacción y proximidad física con el denunciante en cualquier lugar de los eventos o instalaciones de OpenInfra.
   - Bloquear al infractor en canales de IRC o listas de correo u otros canales de comunicación controlados por la Fundación.
   - Finalizar cualquier responsabilidad o privilegios de voluntariado que el infractor tenga con la Fundación (ya sea indefinidamente o por un período de tiempo determinado).
   - Exigir que el infractor abandone inmediatamente un evento patrocinado por la Fundación y no regrese.
@@ -143,3 +142,4 @@ Traducido por:
 
 Revisado por:
 - Victor Morales - @electrocucaracha
+- Santos De La Fuente - @ParzivalRealm
