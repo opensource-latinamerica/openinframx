@@ -1,4 +1,5 @@
-En caso de cualquier información desactualizada, la fuente de la verdad siempre será: https://openinfra.dev/legal/code-of-conduct
+[ESP] En caso de cualquier información desactualizada, la fuente de la verdad siempre será https://openinfra.dev/legal/code-of-conduct
+[ENG] In case of any difference, the source of source of truth will always be https://openinfra.dev/legal/code-of-conduct
 
 ---
 
@@ -136,10 +137,10 @@ El personal de la Fundación ("Staff") encargado de estos asuntos tiene la sigui
 
 ---
 
-Traducido por:
+Traducido por: (translated by)
 - Alvaro Soto - @khyr0n
 - Luis Felipe Ariza Vesga - @lfarizav
 
-Revisado por:
+Revisado por: (reviewed by)
 - Victor Morales - @electrocucaracha
 - Santos De La Fuente - @ParzivalRealm
