@@ -1,5 +1,10 @@
-[ESP] En caso de cualquier información desactualizada, la fuente de la verdad siempre será https://openinfra.dev/legal/code-of-conduct
-[ENG] In case of any difference, the source of source of truth will always be https://openinfra.dev/legal/code-of-conduct
+---
+
+[ESP]  
+En caso de cualquier información desactualizada, la fuente de la verdad siempre será https://openinfra.dev/legal/code-of-conduct
+
+[ENG]  
+In case of any difference, the source of source of truth will always be https://openinfra.dev/legal/code-of-conduct
 
 ---
 
