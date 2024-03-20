@@ -1,7 +1,7 @@
 ---
 
 [ESP]  
-En caso de cualquier información desactualizada, la fuente de la verdad siempre será https://openinfra.dev/legal/code-of-conduct
+En caso de cualquier información desactualizada, la fuente fidedigna siempre será https://openinfra.dev/legal/code-of-conduct
 
 [ENG]  
 In case of any difference, the source of source of truth will always be https://openinfra.dev/legal/code-of-conduct
@@ -149,3 +149,4 @@ Traducido por: (translated by)
 Revisado por: (reviewed by)
 - Victor Morales - @electrocucaracha
 - Santos De La Fuente - @ParzivalRealm
+- Francisco J Araya - @fjaraya
