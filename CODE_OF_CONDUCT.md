@@ -118,8 +118,7 @@ The Foundation staff (“Staff”) who manage these issues have the following co
   - Direct the offender to cease the behavior and warn that any further violations will result in sanctions
   - Requiring the offender to avoid any interaction with, and physical proximity to, the complainant anywhere in the OpenInfra Venues
   - Banning the offender from IRC channels or mailing lists or other communications channels controlled by the Foundation
-  - Ending any volunteer responsibilities or privileges that the offender holds from the
-  - Foundation (either indefinitely or for a certain time period)
+  - Ending any volunteer responsibilities or privileges that the offender holds from the Foundation (either indefinitely or for a certain time period)
   - Requiring that the offender immediately leave a Foundation sponsored event and not return
   - Banning the offender from future Foundation sponsored events (either indefinitely or for a certain time period)
   - Removing the offender from membership of the Foundation and OpenInfra Foundation community roles and responsibilities
