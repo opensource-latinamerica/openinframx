@@ -1,4 +1,10 @@
-In case of any outdated information, the source of truth will always be: https://openinfra.dev/legal/code-of-conduct
+---
+
+[ESP]  
+En caso de cualquier información desactualizada, la fuente fidedigna siempre será https://openinfra.dev/legal/code-of-conduct
+
+[ENG]  
+In case of any difference, the source of source of truth will always be https://openinfra.dev/legal/code-of-conduct
 
 ---
 
