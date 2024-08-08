@@ -31,7 +31,7 @@ The sharing of knowledge has never been easier in the digital era. People from a
 
 The amazing work being done in Latin America and its influence on the international scene demonstrate the joy of information exchange. We strengthen local communities and contribute to the global community by recognizing and endorsing these projects. We create the foundation for a world that is more interconnected, knowledgeable, and peaceful as long as we exchange and educate one another.
 
-Out local contribution was this talk was given by [Alvaro Soto](/authors/alvaro.soto/) in here he try to share a common sentiment around the regional community, pointing 2 key points.
+Out local contribution was this talk was given by [Alvaro Soto](/authors/alvaro.soto/) in here he try to share a common sentiment around the regional community, pointing 3 key points.
  - Comfort zone
  - Lack of ownership
  - Language barrier

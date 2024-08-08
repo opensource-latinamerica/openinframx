@@ -31,7 +31,7 @@ Compartir conocimientos nunca ha sido tan fácil en la era digital. Personas de 
 
 El increíble trabajo que se está realizando en América Latina y su influencia en el escenario internacional demuestra la alegría del intercambio de información. Fortalecemos las comunidades locales y contribuimos a la comunidad global al reconocer y respaldar estos proyectos. Creamos la base para un mundo más interconectado, informado y pacífico siempre que intercambiemos y eduquemos a los demás.
 
-Nuestra contribución local fue esta charla que fue dada por [Alvaro Soto](/es/authors/alvaro.soto/) en la que trata de compartir un sentimiento común en la comunidad regional, señalando 2 puntos clave:
+Nuestra contribución local fue esta charla que fue dada por [Alvaro Soto](/es/authors/alvaro.soto/) en la que trata de compartir un sentimiento común en la comunidad regional, señalando 3 puntos clave:
  - Zona de confort
  - Falta de propiedad
  - Barrera del lenguaje
