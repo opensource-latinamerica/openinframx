@@ -34,6 +34,7 @@ The amazing work being done in Latin America and its influence on the internatio
 Out local contribution was this talk was given by [Alvaro Soto](/authors/alvaro.soto/) in here he try to share a common sentiment around the regional community, pointing 2 key points.
  - Comfort zone
  - Lack of ownership
+ - Language barrier
 
 # Abstract 
 Any open-source product is still a “maybe or nah” in LATAM.  It’s easier to pay millions for commercial products, where the vendor takes full responsibility from the delivery to the support. It’s also easier to blame the success or failure on the vendor and the quality of the product. LATAM still has a cultural gap regarding OpenSource. A lack of ownership, taking the risk of developing and retaining the required talent in-house to make things work. A challenge that can be tackled with a more specific business analysis of companies in LATAM, including an organizational cultural transition, to demonstrate the benefits of open source in the mid-term, putting them more in control and accelerating their digital transformation.

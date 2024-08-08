@@ -34,6 +34,7 @@ El increíble trabajo que se está realizando en América Latina y su influencia
 Nuestra contribución local fue esta charla que fue dada por [Alvaro Soto](/es/authors/alvaro.soto/) en la que trata de compartir un sentimiento común en la comunidad regional, señalando 2 puntos clave:
  - Zona de confort
  - Falta de propiedad
+ - Barrera del lenguaje
 
 # Resumen
 Cualquier producto de código abierto sigue siendo un “tal vez o no” en LATAM. Es más fácil pagar millones por productos comerciales, donde el proveedor asume toda la responsabilidad desde la entrega hasta el soporte. También es más fácil culpar al proveedor y a la calidad del producto por el éxito o el fracaso. LATAM todavía tiene una brecha cultural con respecto al código abierto. Falta de propiedad, asumiendo el riesgo de desarrollar y retener el talento necesario internamente para que las cosas funcionen. Un desafío que se puede abordar con un análisis empresarial más específico de las empresas en LATAM, incluida una transición cultural organizativa, para demostrar los beneficios del código abierto a mediano plazo, poniéndolas más en control y acelerando su transformación digital.
