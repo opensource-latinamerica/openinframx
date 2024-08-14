@@ -8,4 +8,6 @@ social:
   email: hello@openinfra.mx
   website: https://openinfra.mx/
   youtube: UCpB__-WAEyHdvKAK0Y15akQ
+  trello: https://trello.com/b/AEpwaRgI
+  rss: "" # Remove RSS
 ---
