@@ -9,10 +9,10 @@ reward: false
 pinned: false
 carousel: false
 series:
-  - OpenInfraDays
   - OpenInfraDaysMexico2022
 categories:
   - OpenInfraDays
+  - Events
 tags: 
   - Advertising
 authors:
@@ -20,35 +20,31 @@ authors:
 images: ["/images/Mexico-OpenInfra-Days-Black2x.png"]
 ---
 
-Join Us for the first Kubernetes Community Days in Guadalajara, Mexico
+The first ever OpenInfra Days Mexico, 100% hosted by the local community.
 
 <!--more-->
 
-Hey LATAM Tech Enthusiasts! we have exciting news!
-Join Us for the first Kubernetes Community Days in Guadalajara, Mexico
+For the first time ever, the local community will host this year OpenInfraDays.
+Open Infrastructure Days is an event organized by Open Infrastructure User Group around the world. And focused on Open Infrastructure Projects and any related topics.
+Open Infrastructure Days Mexico is one of the regional Open Infrastructure Days. the event is organized by Open Infrastructure User Groups from several regions in Mexico. And it's focused on community development across Mexico. To union community efforts, to develop Open Infrastructure community, and to provide back to each local user groups in Mexico.
+ - 100% virtual
+ - 100% free
 
-We're thrilled to announce the first-ever Kubernetes Community Days in Guadalajara, Mexico. It'll be a colocated event with the loved **Cumbre de Contribuidores de Open Source Software** [(CCOSS)](https://ccoss.org/)
+**Save the date**: Open Infrastructure Days Mexico edition will be take place on Monday August 15th.
 
-Save the Date: February 23, 24 2024\
-Venue: [CUCEA](https://ccoss.org/blog/sede-2023/)
+Open Infrastructure Days Mexico Format:
+Event will be 100% online and 100% free, interactions will be done by real-time chat between speakers and participants, be ready to make and answer questions, share links or even laboratory environments accesses, please always have the [Code of conduct](https://openinfra.dev/legal/code-of-conduct) in mind.
 
-What's in store for you?
- - Networking: Connect with fellow Kubernetes enthusiasts, developers, and experts in your local community.
- - Speaker Sessions: Dive deep into Kubernetes with insightful talks and workshops from industry leaders.
- - Knowledge Sharing: Learn and share best practices, tips, and tricks for mastering Kubernetes in real-world scenarios.
- - Community Building: Strengthen your local tech community by fostering collaboration and knowledge exchange.
- - Giveaways: Grab some cool swag and maybe even win exciting prizes!
+Presentations:
+Presentations videos will be prerecorded and shared by the time scheduled, chat rooms will stay open from the beginning of the event and remain open until eternity. We don't need professional setups, just make sure you can record yourself with the background pointing to a wall or something without movement and get a good audio quality, reach out if you have questions or concerns.
 
-Whether you're a Kubernetes pro or just starting your journey, this event is for you. Join us for two days filled with learning, networking, and fun.
+Chat rooms:
+We will share a [slack](https://slack.oss.lat) invite for all the participants a day before the event opening to be ready to interact and share opinions and questions.
 
-Take a look at the [agenda](https://ccoss.org/agenda/)\
-RSVP now to secure your spot [here](https://ccoss.org/tickets/)
+Code of conduct: 
+Please see [Code of conduct](https://openinfra.dev/legal/code-of-conduct).
 
-Let's celebrate the power of Kubernetes and build a thriving local community together! See you at Kubernetes Community Days in Guadalajara, Mexico!
-Spread the word and bring your friends along. It's going to be an event to remember! 
+Questions:
+Send us an e-mail to hello@openinfradays.mx
 
-Please take a few minutes to read the [CoC](https://ccoss.org/coc/)\
-See you all there my friends!
-
-[KUBERNETES COMMUNITY DAYS](https://www.cncf.io/kcds/)\
-[CNCF](https://www.cncf.io/)
+We really hope to see you online!
