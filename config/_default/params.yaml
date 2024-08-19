@@ -2,6 +2,8 @@ mainSections:
   - news
   - posts
   - blog
+  - events
+  - openinfradays
 
 # titleSeparator: '|' # Title separator. Default to -.
 
@@ -105,12 +107,12 @@ archive:
   # basePath = "/archiv" # The base path of archive pages.
   # dateFormat: 01-02 # Archive date format. Default to Jan 2.
 
-analytics:
+#analytics:
   # baidu:  # Baidu Analytics
 
 # Site verification
-siteVerification:
-  google: 
+#siteVerification:
+  #google: 
   #bing: 
   #baidu: 
   #baiduUnion:  # Baidu Union
@@ -222,10 +224,6 @@ topAppBar:
   social:
     email: hello@openinfra.mx
     rss: ""
-
-#docs:
-  # nav:
-    # expand: true # Expand docs navigations.
 
 feeds:
   content: false

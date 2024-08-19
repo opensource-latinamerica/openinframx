@@ -64,5 +64,8 @@
   },
   "devDependencies": {},
   "name": "openinfra.mx",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "license": "CC0-1.0",
+  "url": "https://openinfra.mx",
+  "repository": "https://github.com/opensource-latinamerica/openinframx"
 }
