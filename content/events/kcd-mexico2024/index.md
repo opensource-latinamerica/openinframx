@@ -1,5 +1,5 @@
 ---
-title: Join Us for the first Kubernetes Community Days in Guadalajara, Mexico
+title: Kubernetes Community Days in Guadalajara, Mexico
 date: 2024-01-31T11:34:47+08:00
 featured: true
 draft: false
@@ -19,7 +19,7 @@ authors:
 images: ["/images/news/ccoss_kcd_2024.png"]
 ---
 
-Join Us for the first Kubernetes Community Days in Guadalajara, Mexico
+Kubernetes Community Days in Guadalajara, Mexico
 
 <!--more-->
 
