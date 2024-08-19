@@ -1,5 +1,5 @@
 ---
-title: Únete a nosotros en el Primer KCD en Guadalajara, México.
+title: Kubernetes Community Days en Guadalajara, México.
 date: 2024-01-31T11:34:47+08:00
 featured: true
 draft: false
@@ -19,12 +19,12 @@ authors:
 images: ["/images/news/ccoss_kcd_2024.png"]
 ---
 
-Únete a nosotros en el Primer KCD en Guadalajara, México.
+Kubernetes Community Day en Guadalajara, México.
 
 <!--more-->
 
 ¡Hola entusiastas de la tecnología en LATAM! ¡Tenemos noticias emocionantes!
-Únete a nosotros en el Primer KCD en Guadalajara, México.
+Únete a nosotros en el Primer Kubernetes Community Days en Guadalajara, México.
 
 Estamos emocionados de anunciar los Primeros Días de la Comunidad Kubernetes en Guadalajara, México. Será un evento conjunto con la querida **Cumbre de Contribuidores de Software de Código Abierto** [(CCOSS)](https://ccoss.org/).
 
