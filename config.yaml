@@ -1,2 +1,4 @@
 title: OpenInfra Mexico
 copyright: 'Copyright © 2022-{year} Mexico OpenInfra Community. All Rights Reserved.'
+baseURL: /
+theme: hugo-theme-bootstrap
