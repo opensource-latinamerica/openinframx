@@ -28,6 +28,7 @@ The event focused on the consolidation of the Telco ecosystem on open infrastruc
 Save the Date: September 3, 2024\
 Event info: [HERE](https://open.telcocloud-summit.com/)
 Venue: [Mexico City Marriott Reforma Hotel](https://www.google.com/maps/place/19%C2%B025'41.0%22N+99%C2%B009'51.2%22W/@19.42805,-99.164219,17z/data=!3m1!4b1!4m4!3m3!8m2!3d19.42805!4d-99.164219?hl=es&entry=ttu)
+Live event register: [here](https://open.telcocloud-summit.com/wndx0N?rt=svQDGBmL7k24CyoTCtWc2Q)
 
 # What will you learn?
 - Global Organizations:
@@ -44,3 +45,6 @@ VNFs and CNFs suitable for being deployed in open environments, and successfully
 
 # Talks from:
 Open Compute Project (OCP), Open Infrastructure Foundation, Cloud Native Computing Foundation, ETSI, Teleonica, AMD, Intel, Mavenir, Nokia, Whitestack, Mquest Technologies, Sixbell, IP Infusion, UfiSpace, Summa Networks
+
+# If you didn't manage to register on time:
+You can also enjoy this event online for free, by registering [here](https://open.telcocloud-summit.com/wndx0N?rt=svQDGBmL7k24CyoTCtWc2Q)
