@@ -4,9 +4,6 @@ enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
 enableGitInfo: true
-# googleAnalytics: UA-123-45
-# disqusShortname: yourdiscussshortname
-
 IsMultiLingual: true
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
@@ -27,3 +24,7 @@ permalinks:
 security:
   funcs:
     getenv: ['^HUGO_', '^CI$', 'PWD']
+
+services:
+  googleAnalytics:
+    ID: G-RBTM4NKQBC
