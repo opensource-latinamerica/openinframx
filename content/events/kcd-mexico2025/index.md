@@ -70,12 +70,9 @@ From DevOps and CI/CD to Crossplane, EKS, Istio, and KubeVirt, the sessions show
 
 ## Gratitude to Our Sponsors and Organizers
 
-This event would not have been possible without the generous support of our sponsors: Akamai, AWS, Cast AI, CNCF, EPAM,
-Hopla Software, Improving, Koch, SoftServe, SUSE, and Zillow. We extend our heartfelt gratitude to them for their invaluable contributions.
+We are deeply grateful to our generous sponsors—Akamai, AWS, Cast AI, CNCF, EPAM, Hopla Software, Improving, Koch, SoftServe, SUSE, and Zillow—whose support made this event possible.
 
-A special thank you to our dedicated organizers: Abraham Alfaro, Alejandro Mercado, Alejandro Rodríguez, Álvaro Soto,
-Cassandra Valadez, Eduardo Salazar, Gloria González, Hazzim Anaya, Rodolfo Martinez, and Victor Morales. Your hard work
-and commitment made this event a resounding success.
+A heartfelt thank you goes out to the passionate organizers: Abraham Alfaro, Alejandro Mercado, Alejandro Rodríguez, Álvaro Soto, Cassandra Valadez, Eduardo Salazar, Gloria González, Hazzim Anaya, Rodolfo Martinez, and Victor Morales. Your dedication turned a vision into a truly impactful experience.
 
-Together, we are shaping the future of cloud-native technology.
+Together, from the heart of Mexico’s tech capital, we are shaping the future of cloud-native technology—one community-driven step at a time.
 
