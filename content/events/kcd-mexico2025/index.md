@@ -55,7 +55,7 @@ enhance resource management, security, and application scalability. Highlights i
 - Cloud-native CI/CD: Migrations from GitHub-Hosted Actions to Self-Hosted solutions with KubeVirt.
 - Green Infrastructure: Best practices to reduce environmental impact without compromising efficiency or budget.
 
-## More Than an Event, an Experience
+## More than another event, this was a fully immersed experience
 
 KCD Mexico 2025 was more than just a conference; it was a community-building experience. Attendees not only learned
 from global leaders but also shared experiences, challenges, and lessons with peers from across Latin America.
