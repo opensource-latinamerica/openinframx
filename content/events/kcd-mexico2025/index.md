@@ -57,7 +57,7 @@ enhance resource management, security, and application scalability. Highlights i
 
 ## More than another event, this was a fully immersed experience
 
-KCD Mexico 2025 was more than just a conference; it was a community-building experience. Attendees not only learned
+KCD Mexico 2025 was more than just another conference; it was a community-building experience. Attendees not only learned
 from global leaders but also shared experiences, challenges, and lessons with peers from across Latin America.
 The Q&A sessions sparked in-depth discussions about implementation, common pitfalls, and innovative production solutions,
 all in a collaborative, open, and energetic environment.
