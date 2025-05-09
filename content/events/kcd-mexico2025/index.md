@@ -52,7 +52,7 @@ enhance resource management, security, and application scalability. Highlights i
 - Security First: Hardening strategies to comply with regulations like PCI DSS, HIPAA, and GDPR, fortifying clusters against real threats.
 - API Gateway, OpenTelemetry, and Cilium: Enhanced visibility, traceability, and control in distributed environments.
 - Istio + KubeVirt: Hybrid architectures combining the best of containers and virtual machines.
-- Cloud-native CI/CD: Migrations from GitHub Actions to solutions like Tekton and KubeVirt.
+- Cloud-native CI/CD: Migrations from GitHub-Hosted Actions to Self-Hosted solutions with KubeVirt.
 - Green Infrastructure: Best practices to reduce environmental impact without compromising efficiency or budget.
 
 ## More Than an Event, an Experience
