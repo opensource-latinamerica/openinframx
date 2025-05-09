@@ -32,9 +32,9 @@ computing, creating an atmosphere of innovation and collaboration.
 
 ## A Day of Learning and Connection
 
-The event was a vibrant platform where the community exchanged ideas, tools, and best practices that are
-shaping the present and future of infrastructure as code. With a focus on technical and collaborative
-approaches, the day was filled with opportunities for learning, connecting, and building together.
+The event provided a vibrant platform where the community exchanged ideas, tools, and best practices that
+shapes the future of infrastructure as code. With a depth focus on technical content and collaborative
+environment, the day was packed with opportunities for learning, connecting, and building together.
 
 ## A Global Agenda
 
