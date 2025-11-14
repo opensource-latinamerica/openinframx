@@ -1,5 +1,6 @@
-paginate: 10
-paginatePath: page
+pagination:
+  pagerSize: 10
+  path: page
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
