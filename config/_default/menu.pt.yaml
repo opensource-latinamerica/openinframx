@@ -1,33 +1,33 @@
 ---
-main: 
+main:
   - name: Blog
     identifier: blog
     weight: 1
-    url: /blog
+    url: "/pt/blog"
     params:
       icon: '<i class="fas fa-fw fa-terminal"></i>'
-  - name: News
-    identifier: news
+  - name: Notícias
+    identifier: Noticias
     weight: 2
-    url: /news
+    url: "/pt/news"
     params:
       icon: '<i class="fas fa-fw fa-newspaper"></i>'
-  - name: Authors
-    identifier: authors
+  - name: Autores
+    identifier: autores
     weight: 3
-    url: /authors
+    url: "/pt/authors"
     params:
       icon: '<i class="fas fa-fw fa-heart"></i>'
-  - name: Code of Conduct
-    identifier: coc
+  - name: Código de Conduta
+    identifier: cdc
     weight: 99
-    url: https://openinfra.dev/legal/code-of-conduct
+    url: "https://openinfra.dev/legal/code-of-conduct"
     params:
       icon: '<i class="fas fa-fw fa-handshake"></i>'
-  - name: Contact
-    identifier: contact
+  - name: Contato
+    identifier: contacto
     weight: 100
-    url: /contact
-    params: 
+    url: "/pt/contact"
+    params:
       icon: '<i class="fas fa-fw fa-bug"></i>'
 ---

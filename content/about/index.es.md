@@ -25,6 +25,5 @@ OpenInfraChile Community Meetup url: https://www.meetup.com/openstackscl/
 
 Presentaciones de la comunidad.
 
-OpenInfraDays Mexico 2022 mirror US: https://us.mirrors.headup.ws/oid-mx22/ \
-OpenInfraDays Mexico 2022 mirror CL: https://cl.mirrors.headup.ws/oid-mx22/
+OpenInfraDays Mexico 2022 mirror US: https://mirrors.headup.ws/oid-mx22/ \
 
