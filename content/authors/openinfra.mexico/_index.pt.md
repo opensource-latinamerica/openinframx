@@ -1,6 +1,6 @@
 ---
 title: OpenInfra México
-description: Open Infrastructure CDMX User Group focused on community development across Mexico.
+description: Grupo de Usuários de Infraestrutura Aberta da Cidade do México focado no desenvolvimento da comunidade em todo o México.
 avatar: images/OpenInfra-UserGroup-Black.svg
 social:
   github: opensource-latinamerica
