@@ -31,3 +31,7 @@ security:
 services:
   googleAnalytics:
     ID: G-RBTM4NKQBC
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
