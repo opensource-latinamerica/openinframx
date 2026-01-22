@@ -16,9 +16,9 @@ categories:
 tags: 
   - Advertising
   - OpenInfraDays
-authors:
-  - alvaro.soto
-images: ["/images/Mexico-OpenInfra-Days-Black2x.png"]
+author:
+  - openinfra.mexico
+images: ["/images/blog/openinfradays/Mexico-OpenInfra-Days-Black2x.png"]
 ---
 
 El primer OpenInfraDays Mexico creado 100% por la comunidad local.

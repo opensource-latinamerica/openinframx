@@ -1,6 +1,6 @@
 ---
 title: "Por Qué OpenInfraDays NA y SCaLE Son la Combinación Perfecta: Resumen del Evento en Pasadena"
-date: 2025-04-18T1T10:00:00-06:00
+date: 2025-04-18T10:00:00-06:00
 draft: false
 featured: true
 comment: false
@@ -22,7 +22,7 @@ tags:
 authors:
   - oss.lat
 images:
-  - /images/events/openinfra-scale-2025.jpg
+  - /images/blog/openinfradays/openinfra-scale-2025.jpg
 ---
 
 Para la comunidad de código abierto, hay pocos eventos tan auténticos como la Exposición de Linux del Sur de California, más conocida como **SCaLE**. Es la conferencia de código abierto más grande de Norteamérica gestionada por la propia comunidad. Por eso, tuvo todo el sentido del mundo que la **Fundación OpenInfra** eligiera co-localizar su evento **"OpenInfra Days North America"** justo allí este año en Pasadena.
@@ -42,7 +42,7 @@ El mensaje fue claro: OpenStack no es solo una alternativa viable; es una soluci
 
 ### 2. La IA es Infraestructura (y Viceversa)
 
-El revuelo de la IA y la IA Generativa estaba en todas partes, but las charlas de OpenInfra se saltaron el "hype" y se centraron en los aspectos prácticos. La comunidad está enfocada en responder la pregunta: "¿Cómo *ejecutamos* esto?"
+El revuelo de la IA y la IA Generativa estaba en todas partes, pero las charlas de OpenInfra se saltaron el "hype" y se centraron en los aspectos prácticos. La comunidad está enfocada en responder la pregunta: "¿Cómo *ejecutamos* esto?"
 
 Las discusiones se centraron en:
 * Usar OpenStack y Kubernetes (K8s) para gestionar cargas de trabajo masivas de GPU.

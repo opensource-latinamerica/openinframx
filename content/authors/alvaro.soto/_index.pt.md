@@ -1,6 +1,6 @@
 ---
 title: Alvaro Soto
-description: Distributed (file) systems, Large scale & high performance storage architectures. Parallel IO. Operating Systems, Linux Kernel.
+description: Sistemas de arquivos distribuídos, arquiteturas de armazenamento em larga escala e de alto desempenho. E/S paralela. Sistemas Operacionais, Kernel do Linux.
 social:
   github: alsotoes
   twitter: alsotoes

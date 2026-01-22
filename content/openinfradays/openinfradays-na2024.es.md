@@ -17,8 +17,8 @@ tags:
   - Advertising
   - OpenInfraDays
 authors:
-  - alvaro.soto
-images: ["/images/openinfradays/oid-na2024.png"]
+  - openinfra.mexico
+images: ["/images/blog/openinfradays/oid-na2024.png"]
 ---
 
 El primeros OpenInfra Days Norteamérica (Estados Unidos, México y Canadá) 2024.
