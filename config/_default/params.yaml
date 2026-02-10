@@ -72,6 +72,7 @@ viewer: true # Image Viewer
 sidebar:
   # fixed: true
   archives: false # Enable archives widget
+  taxonomiesToggleArchives: false # Disable archives from taxonomies toggle
   taxonomiesToggle: false # Disable taxonomy toggle
   # categories: true # Enable categories widget
   # tags: true # Enable tags widget
@@ -92,7 +93,7 @@ post:
   # copyright: false # Whether to display copyright section on each post.
   # plainifyExcerpt: false # Format excerpt in HTML if false.
   featuredImage: true # Show the featured image above the content.
-  numberifyHeadings: true # Count headings automatically.
+  numberifyHeadings: false # Count headings automatically.
   # numberifyHeadingsEndLevel: 4 # The depth of headings to count. Default to 6.
   numberifyHeadingsSeparator: . # The separator between of number and headings.
   # tocStyleType: decimal # The TOC's CSS list-style-type property.
@@ -228,3 +229,14 @@ topAppBar:
 
 feeds:
   content: false
+
+author:
+  name: "OpenInfra Mexico"
+  bio: "Open Infrastructure Community in Mexico."
+  avatar: "images/OpenInfra-UserGroup-White.png"
+
+social:
+  github: opensource-latinamerica/openinframx
+  twitter: OpenInfraCDMX
+  email: hello@openinfra.mx
+  rss: ""
