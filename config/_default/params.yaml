@@ -223,6 +223,7 @@ repo:
   branch: main
 
 topAppBar:
+  colorToggle: false
   social:
     email: hello@openinfra.mx
     rss: ""
