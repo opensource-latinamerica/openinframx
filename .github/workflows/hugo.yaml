@@ -97,7 +97,6 @@ jobs:
 
   # Deployment job
   deploy:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -106,4 +105,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         uses: actions/deploy-pages@v5
